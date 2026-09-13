@@ -24,3 +24,5 @@
     "autoprefixer": "^10.4.0"
   }
 }
+,
+  "build-trigger": "vite-env-rebuild"
