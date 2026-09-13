@@ -1,3 +1,4 @@
+#Updated at [time]
 # TravelOS Monitoring Dashboard
 
 Real-time cost & alert monitoring dashboard for TravelOS backend. Built with Vue 3, Supabase, and Tailwind CSS.
